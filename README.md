@@ -9,7 +9,7 @@ Supports all these converters, flags and modifiers:
 
  Type        | Name
 ------------ | -------------------------------------------------------------------------------
- Converters  |  %d / %s / %p / %d / %i / %o / %u / %x / %X / %c/ %%
+ Converters  |  %d / %s / %p / %i / %o / %u / %x / %X / %c/ %%
  Flags       |  # / 0 / - / + / .
  Modifiers   |  hh / h / l / ll 
 
