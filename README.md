@@ -30,4 +30,4 @@ gcc -Wall -Werror -Wextra main.c libftprintf.a -Iincludes/
 
 ## Subject
 
-https://github.com/AnthonyLedru/ft_printf/blob/master/ft_printf.pdf
+https://github.com/Ysrbolles/ft_printf/blob/master/ft_printf.fr.pdf
